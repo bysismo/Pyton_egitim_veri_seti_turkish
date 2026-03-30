@@ -73,3 +73,15 @@ GitHub için İpucu:
     License: Veri setini yayınlarken MIT veya Apache 2.0 lisansı eklemeyi unutma.
 
     Hugging Face: Eğer veri seti büyükse (5000+ satır), dosyayı GitHub'a yüklemek yerine Hugging Face Datasets'e yükleyip GitHub üzerinden oraya link verebilirsin.
+
+Bu proje Apache License 2.0 temel alınarak lisanslanmıştır; ancak bu veri seti ve beraberindeki kodlar için aşağıdaki ÖZEL KISITLAMA geçerlidir:
+
+⚠️ TİCARİ KULLANIM YASAĞI (NON-COMMERCIAL RESTRICTION):
+Bu veri setinin (CyberPy-Instruct-TR) tamamı veya bir kısmı; herhangi bir ticari ürün, ücretli servis, kapalı kaynaklı model eğitimi veya gelir getiren herhangi bir faaliyet için KULLANILAMAZ.
+
+    İzin Verilenler: Akademik araştırma, kişisel öğrenme, hobi projeleri, açık kaynaklı ve ücretsiz araçların geliştirilmesi.
+
+    İzin Verilmeyenler: Veri setinin satılması, ücretli bir API'ye dahil edilmesi, kurumsal/ticari modellerin eğitilmesi.
+
+Bu kısıtlama, Apache License 2.0'ın sağladığı genel izinlerin üzerinde öncelikli bir hak teşkil eder. Ticari kullanım talepleri için lütfen proje sahibi ile iletişime geçiniz.
+

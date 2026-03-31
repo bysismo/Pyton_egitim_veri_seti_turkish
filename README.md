@@ -5,8 +5,6 @@ CyberPy-Instruct-TR, siber güvenlik uzmanları, "legal hacker"lar ve sistem yö
 Bu veri seti, LLM (Büyük Dil Modelleri) modellerini siber güvenlik otomasyonu, defansif programlama ve tehdit avcılığı (threat hunting) konularında eğitmek veya ince ayar (fine-tuning) yapmak için oluşturulmuştur.
 📌 Veri Seti Hakkında
 
-    Model: Qwen/Qwen2.5-Coder-7B-Instruct kullanılarak üretilmiştir.
-
     Dil: %100 Türkçe (Teknik terimler korunmuştur).
 
     Format: original, alpaca ve gpt formatlarında 3 farklı JSONL çıktısı.
